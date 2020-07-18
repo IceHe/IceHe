@@ -6,6 +6,7 @@
 
 - [Bio](/marks/bio.md) : _Skills / Exp / Edu_
     - **SCUT** : Software Engineering / Bachelor _( C++ )_
+    - **Huawei** : Telecom Software Customization / Intern. _( Java )_
     - **Weibo** : Mobile API _( PHP )_ → Video Platform _( Java )_
     - **Alibaba Local Life** : Beijing Logistics _( Java )_
         - _众包运营&数据组后台 → 蜂鸟跑腿前台_
