@@ -9,7 +9,7 @@
     - **Sina Weibo** : Mobile API Service → Video Platform
     - **SCUT** : Software Engineering / Bachelor
 - [IceHe's Library](https://icehe.xyz/#/) : _aka. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
-- [\_IceHe\_ @ Weibo](https://weibo.com/icedes) : _Daily Life Records_
+- [Weibo @\_IceHe\_](https://weibo.com/icedes) : _Daily Life Records_
 
 <!-- ### Hi there 👋 -->
 
