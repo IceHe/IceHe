@@ -2,11 +2,12 @@
 
 <!-- Done is better than perfect. -->
 
-> 写一部小说就像在黑夜里开车<br/>你只能看到车灯照亮的部分，但是你却可以走完整个旅程
-> —— **E.L. Doctorow**
+> 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。<br/>—— E.L. Doctorow
 
 - [Weibo](https://weibo.com/icedes)
 - [IceHe's Library](#icehe39s-lib)
+
+> 靡不有初，鲜克有终
 
 <!-- ### Hi there 👋 -->
 
