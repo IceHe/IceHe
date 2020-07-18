@@ -5,7 +5,7 @@
 > 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。<br/><br/>—— E.L. Doctorow
 
 - [Bio](/marks/bio.md) - _Skills / Exp / Edu - Java_
-    - _Alibaba Local Life / Beijing Logistics - 众包运营 & 数据组后台 → 蜂鸟跑腿前台_
+    - _Alibaba Local Life / Beijing Logistics - 众包运营 & 数据组 → 蜂鸟跑腿_
     - _Sina Weibo / Mobile API Service → Video Platform_
     - _SCUT / Software Engineering / Bachelor_
 - [IceHe's Library](https://icehe.xyz/#/) - _aka. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
