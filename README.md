@@ -6,8 +6,8 @@
 
 - [Bio](/marks/bio.md) : _Skills / Exp / Edu - Java_
     - **Alibaba Local Life** : Beijing Logistics
-        - 众包运营 & 数据组 → 蜂鸟跑腿
-    - **Sina Weibo** : Mobile API → Video Platform
+        - 众包运营&数据组后台 → 蜂鸟跑腿前台
+    - **Weibo** : Mobile API → Video Platform
     - **SCUT** : Software Engineering / Bachelor
 - [IceHe's Library](https://icehe.xyz/#/) : _aka. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : _Daily Life Records_
