@@ -9,7 +9,7 @@
     - **Huawei** : Telecom Software Customization / Intern. _( Java )_
     - **Weibo** : Mobile API _( PHP )_ → Video Platform _( Java )_
     - **Alibaba Local Life** : Beijing Logistics _( Java )_
-        - _众包物流运营 & 数据组后台 → 蜂鸟跑腿前台_
+        - 众包物流运营 & 数据组后台 → 蜂鸟跑腿前台
 - [IceHe's Library](https://icehe.xyz/#/) : _i.e. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : _Daily Life Records_
 
