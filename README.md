@@ -8,7 +8,7 @@
     - _阿里巴巴本地生活 / 北京物流 - 众包运营 & 数据组后台 → 蜂鸟跑腿前台_
     - _新浪微博 / 移动应用服务 → 视频平台_
     - _华南理工 / 软件工程 / 本科_
-- [Weibo \_IceHe\_](https://weibo.com/icedes) - _Daily Life Records_
+- [Weibo @\_IceHe\_](https://weibo.com/icedes) - _Daily Life Records_
 - [IceHe's Library](https://icehe.xyz/#/) - _aka. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
 
 <!-- ### Hi there 👋 -->
