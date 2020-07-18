@@ -1,4 +1,16 @@
-### Hi there 👋
+# IceHe <small>Lib</small>
+
+<!-- > 好记性不如烂博客 -->
+
+<!-- Done is better than perfect. -->
+
+> 写一部小说就像在黑夜里开车<br/>你只能看到车灯照亮的部分，但是你却可以走完整个旅程
+> —— **E.L. Doctorow**
+
+- [Weibo](https://weibo.com/icedes)
+- [IceHe's Library](#icehe39s-lib)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **IceHe/IceHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
