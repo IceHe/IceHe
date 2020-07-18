@@ -9,7 +9,7 @@
     - _微博 / 移动应用服务 ( PHP ) → 视频平台 ( Java )_
     - _华南理工 / 软件工程 / 本科_
 - [Weibo \_IceHe\_](https://weibo.com/icedes) - _Daily Life Records_
-- [IceHe's Lib](https://icehe.xyz/#/) - _aka. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
+- [IceHe's Library](https://icehe.xyz/#/) - _aka. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
 
 <!-- ### Hi there 👋 -->
 
