@@ -1,5 +1,3 @@
-# IceHe <small>Lib</small>
-
 <!-- > 好记性不如烂博客 -->
 
 <!-- Done is better than perfect. -->
