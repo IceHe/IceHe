@@ -2,7 +2,7 @@
 
 <!-- Done is better than perfect. -->
 
-> 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。<br/>—— E.L. Doctorow
+> 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。<br/><br/>—— E.L. Doctorow
 
 - [Bio](/marks/bio.md) - _Skills / Exp / Edu_
     - _阿里巴巴本地生活 / 北京物流 - 众包运营 & 数据组 → 蜂鸟跑腿 ( Java )_
