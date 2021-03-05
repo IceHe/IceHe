@@ -11,6 +11,7 @@
     - **Huawei** : Telecom Software Customization | Intern. _( Java )_
     - **Sina Weibo** : Mobile API _( PHP )_ → Video Platform | Back-End _( Java )_
     - **Alibaba Local Life** : 众包物流运营 & 数据组后台 → 蜂鸟跑腿前台 | Back-End _( Java )_
+    - **YFD** : Unknown | Back-End _( Java )_
 - [IceHe's Library](https://icehe.xyz/#/) : _i.e. Tech Blog ( [repo](https://github.com/IceHe/lib) )_
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : _Daily Life Records_
 
