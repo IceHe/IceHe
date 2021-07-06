@@ -7,7 +7,7 @@
 <!-- <br/><br/>—— E.L. Doctorow -->
 
 - [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : _Skills | Experience | Educations_
-    - **YFD** : 斑马-电商-供应链 | Back-End _( Java )_
+    - **YFD** : 斑马-供应链 | Back-End _( Java )_
     - **Alibaba Local Life** : 众包物流运营 & 数据组后台 → 蜂鸟跑腿前台 | Back-End _( Java )_
     - **Sina Weibo** : Mobile API _( PHP )_ → Video Platform | Back-End _( Java )_
     - **Huawei** : Telecom Software Customization | Intern. _( Java )_
