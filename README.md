@@ -7,12 +7,12 @@
 <!-- <br/><br/>—— E.L. Doctorow -->
 
 - [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Skills | Experience | Educations
-    - **TBC** : 休息一段时间 | Reader _( ? )_
-    - **YFD** : 斑马-供应链 | Back-End _( Java )_
-    - **Alibaba Local Life** : 众包物流运营 & 数据组后台 → 蜂鸟跑腿前台 | Back-End _( Java )_
-    - **Sina Weibo** : Mobile API _( PHP )_ → Video Platform | Back-End _( Java )_
-    - **Huawei** : Telecom Software Customization | Intern. _( Java )_
-    - **SCUT** : Software Engineering | Bachelor _( C++ )_
+    - **TBC** : 休息一段时间 | Reader ( ? )
+    - **YFD** : 斑马-供应链 | Back-End ( Java )
+    - **Alibaba Local Life** : 众包物流运营 & 数据组后台 → 蜂鸟跑腿前台 | Back-End ( Java )
+    - **Sina Weibo** : Mobile API ( PHP ) → Video Platform | Back-End ( Java )
+    - **Huawei** : Telecom Software Customization | Intern. ( Java )
+    - **SCUT** : Software Engineering | Bachelor ( C++ )
 - [IceHe's Library](https://icehe.xyz/#/) : i.e. Tech Blog ( [repo](https://github.com/IceHe/lib) )
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
