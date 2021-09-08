@@ -6,7 +6,7 @@
 
 <!-- <br/><br/>—— E.L. Doctorow -->
 
-- [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End —— Skills, Experience, Educations
+- [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End —— Experience, Educations, Skills
     - **TBC** : 休息一段时间 | Nap
     - **YFD** : 斑马 - 供应链 | Java
     - **Alibaba Local Life** : 众包物流运营&数据组后台 → 蜂鸟跑腿前台 | Java
