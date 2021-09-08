@@ -13,7 +13,7 @@
     - **Sina Weibo** : Mobile API → Video Platform | PHP → Java
     - **Huawei** : Telecom Software Customization | Java Intern.
     - **SCUT** : Software Engineering | C++ Bachelor 
-- [IceHe's Library](https://icehe.xyz/#/) : i.e. Tech Blog ( [repo](https://github.com/IceHe/lib) )
+- [IceHe's Library](https://icehe.xyz/#/) : i.e. Tech Blog _- [repo](https://github.com/IceHe/lib)_
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
 <!-- ### Hi there 👋 -->
