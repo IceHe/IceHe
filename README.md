@@ -12,9 +12,9 @@
     - **Alibaba Local Life**: 蜂鸟跑腿前台
     - **Alibaba Local Life**: 众包物流运营&数据组后台
     - **Weibo**: Video Platform
-    - **Weibo**: Mobile API - Graduate - PHP
-    - **Huawei**: Telecom Software Customization - Intern. - Java
-    - **SCUT**: Software Engineering - Bachelor - C++
+    - **Weibo**: Mobile API - PHP Graduate
+    - **Huawei**: Telecom Software Customization - Java Intern.
+    - **SCUT**: Software Engineering - C++ Bachelor
 - [IceHe's Library](https://icehe.xyz/#/) : i.e. Tech Blog - [repo](https://github.com/IceHe/lib)
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
