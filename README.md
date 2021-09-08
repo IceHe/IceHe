@@ -7,12 +7,14 @@
 <!-- <br/><br/>—— E.L. Doctorow -->
 
 - [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End —— Experience, Educations, Skills
-    - **TBC** : 休息一段时间 | Nap
-    - **YFD** : 斑马 - 供应链 | Java
-    - **Eleme** : 众包物流运营&数据组后台 → 蜂鸟跑腿前台 | Java
-    - **Weibo** : Mobile API → Video Platform | PHP → Java
-    - **Huawei** : Telecom Software Customization | Java Intern.
-    - **SCUT** : Software Engineering | C++ Bachelor 
+    - **TBC**: Have a rest
+    - **YFD**: Zebra - Supply Chain
+    - **Alibaba Local Life**: 蜂鸟跑腿前台
+    - **Alibaba Local Life**: 众包物流运营&数据组后台
+    - **Weibo**: Video Platform
+    - **Weibo**: Mobile API - Graduate - PHP
+    - **Huawei**: Telecom Software Customization - Intern. - Java
+    - **SCUT**: Software Engineering - Bachelor - C++
 - [IceHe's Library](https://icehe.xyz/#/) : i.e. Tech Blog - [repo](https://github.com/IceHe/lib)
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
