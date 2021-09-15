@@ -6,12 +6,13 @@
 
 <!-- <br/><br/>—— E.L. Doctorow -->
 
-- [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Java Back-End - Exp | Edu | Skills
+- [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End - Exp | Edu | Skills
+    <!-- - **Silverhand**: Founding Team - Node.js -->
     - **TBC**: Have a rest 🌴
-    - **YFD**: Zebra - Supply Chain
-    - **Alibaba Local Life**: 蜂鸟跑腿前台
-    - **Alibaba Local Life**: 众包物流运营&数据组后台
-    - **Weibo**: Video Platform
+    - **YFD**: Zebra - Supply Chain - Java
+    - **Alibaba Local Life**: 蜂鸟跑腿前台 - Java
+    - **Alibaba Local Life**: 众包物流运营&数据组后台 - Java
+    - **Weibo**: Video Platform - Java
     - **Weibo**: Mobile API - PHP Graduate
     - **Huawei**: Telecom Software Customization - Java Intern.
     - **SCUT**: Software Engineering - C++ Bachelor
