@@ -1,7 +1,8 @@
+> 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。
+
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 - [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [repo](https://github.com/IceHe/lib)
-- [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End - Exp | Edu | Skills
-
+- [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End - Exp | Edu | Skills\
     - **Silverhand**: Founding Team - Node.js
     - **YFD**: Zebra - Supply Chain - Java
     - **Alibaba Local Life**: 蜂鸟跑腿前台 - Java
@@ -11,15 +12,13 @@
     - **Huawei**: Telecom Software Customization - Java Intern.
     - **SCUT**: Software Engineering - C++ Bachelor
 
-> 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。
-
 <!-- Done is better than perfect. -->
 
 <!-- <br/><br/>—— E.L. Doctorow -->
 
-<!-- ### Hi there 👋 -->
-
 <!--
+
+### Hi there 👋 
 
 **IceHe/IceHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
