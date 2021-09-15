@@ -7,8 +7,10 @@
 <!-- <br/><br/>—— E.L. Doctorow -->
 
 - [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End - Exp | Edu | Skills
-    <!-- - **Silverhand**: Founding Team - Node.js -->
+    - **Silverhand**: Founding Team - Node.js
+    <!--
     - **TBC**: Have a rest 🌴
+    -->
     - **YFD**: Zebra - Supply Chain - Java
     - **Alibaba Local Life**: 蜂鸟跑腿前台 - Java
     - **Alibaba Local Life**: 众包物流运营&数据组后台 - Java
