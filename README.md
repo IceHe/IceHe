@@ -7,6 +7,7 @@
 <!-- <br/><br/>—— E.L. Doctorow -->
 
 - [Bio](https://github.com/IceHe/lib/blob/master/past/bio.md) : Back-End - Exp | Edu | Skills
+
     - **Silverhand**: Founding Team - Node.js
     - **YFD**: Zebra - Supply Chain - Java
     - **Alibaba Local Life**: 蜂鸟跑腿前台 - Java
@@ -15,6 +16,7 @@
     - **Weibo**: Mobile API - PHP Graduate
     - **Huawei**: Telecom Software Customization - Java Intern.
     - **SCUT**: Software Engineering - C++ Bachelor
+
 - [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [repo](https://github.com/IceHe/lib)
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
