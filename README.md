@@ -6,7 +6,7 @@
     - **Alibaba Local Life** : 蜂鸟跑腿前台 - Java
     - **Alibaba Local Life** : 众包物流运营&数据组后台 - Java
     - **Weibo** : Video Platform - Java
-    - **Weibo** : Mobile API - PHP Graduate
+    - **Weibo** : Mobile API - PHP
     - **Huawei** : Telecom Software Customization - Java Intern.
     - **SCUT** : Software Engineering - C++ Bachelor
 - [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [repo](https://github.com/IceHe/lib)
