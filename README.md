@@ -9,7 +9,7 @@
     - **Weibo** : Mobile API - PHP
     - **Huawei** : Telecom Software Customization - Java Intern.
     - **SCUT** : Software Engineering - C++ Bachelor
-- [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [repo](https://github.com/IceHe/lib)
+- [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [REPO](https://github.com/IceHe/lib)
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
 <!-- Done is better than perfect. -->
