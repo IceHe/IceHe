@@ -1,6 +1,7 @@
 > 写一部小说就像在黑夜里开车, <br/>你只能看到车灯照亮的部分, 但是你却可以走完整个旅程。
 
-- [Bio](https://github.com/IceHe/lib/blob/master/life/bio.md) : Backend Experience & Education
+- [Bio](https://github.com/IceHe/lib/blob/master/life/bio.md) : **Backend** Experience & Education
+
     - **Silverhand** : Founding Team - Node.js
     - **YFD** : Zebra - Supply Chain - Java
     - **Alibaba Local Life** : 蜂鸟跑腿前台 - Java
@@ -9,7 +10,9 @@
     - **Weibo** : Mobile API - PHP
     - **Huawei** : Telecom Software Customization - Java Intern.
     - **SCUT** : Software Engineering - C++ Bachelor
+
 - [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [Repo](https://github.com/IceHe/lib)
+
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
 <!-- Done is better than perfect. -->
