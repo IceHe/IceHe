@@ -13,9 +13,14 @@
     - **Huawei** : Telecom Software Customization - Java Intern.
     - **SCUT** : Software Engineering - C++ Bachelor
 
-- [Library](https://icehe.xyz/#/) : Technology Blog - [Repo](https://github.com/IceHe/lib)
-
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
+
+    - 🔭 I'm currently working on a startup
+    - 🌱 I'm currently learning JavaScript, TypeScript, Node.js and …
+    - 🤔 I'm looking for a GF
+    - 📫 How to reach me directly: `V2VDaGF0OiBJY2VIb29v`
+
+- [Library](https://icehe.xyz/#/) : Technology Blog - [Repo](https://github.com/IceHe/lib)
 
 <!-- > Later equals never. -->
 
@@ -27,14 +32,14 @@
 
 ### Hi there 👋 
 
-**IceHe/IceHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IceHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
