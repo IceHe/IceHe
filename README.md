@@ -13,7 +13,7 @@
     - **Huawei** : Telecom Software Customization - Java Intern.
     - **SCUT** : Software Engineering - C++ Bachelor
 
-- [Library](https://icehe.xyz/#/) : i.e. Tech Blog - [Repo](https://github.com/IceHe/lib)
+- [Library](https://icehe.xyz/#/) : Technology Blog - [Repo](https://github.com/IceHe/lib)
 
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
