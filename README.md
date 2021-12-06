@@ -13,14 +13,14 @@
     - **Huawei** : Telecom Software Customization - Java Intern.
     - **SCUT** : Software Engineering - C++ Bachelor
 
-- [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
+- [Homepage @icehe.xyz](https://icehe.xyz/#/) : Technology Blog - [Repo](https://github.com/IceHe/lib)
 
     - 🔭 I'm currently working on a startup
     - 🌱 I'm currently learning JavaScript, TypeScript, Node.js and …
     - 🤔 I'm looking for a GF
     - 📫 How to reach me directly: `V2VDaGF0OiBJY2VIb29v`
 
-- [Library](https://icehe.xyz/#/) : Technology Blog - [Repo](https://github.com/IceHe/lib)
+- [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
 <!-- > Later equals never. -->
 
