@@ -17,11 +17,11 @@
 
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
 
-<!-- Later equals never. -->
+<!-- > Later equals never. -->
 
-<!-- Done is better than perfect. -->
-
-<!-- <br/><br/>—— E.L. Doctorow -->
+<!-- > Done is better than perfect.<br/> -->
+<!-- > -->
+<!-- > —— E.L. Doctorow -->
 
 <!--
 
