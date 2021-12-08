@@ -39,4 +39,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
+    - 🔭 I'm currently working on a startup
+    - 🌱 I'm currently learning JavaScript, TypeScript, Node.js and …
+    - 🤔 I'm looking for a GF
+    - 📫 How to reach me directly: `V2VDaGF0OiBJY2VIb29v`
+
 -->
