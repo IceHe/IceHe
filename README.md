@@ -17,7 +17,7 @@
 
     - 🔭 I'm currently working on a startup
     - 🌱 I'm currently learning JavaScript, TypeScript, Node.js and …
-<!--     - 🤔 I'm looking for a GF -->
+    <!-- - 🤔 I'm looking for a GF -->
     - 📫 How to reach me directly: `V2VDaGF0OiBJY2VIb29v`
 
 - [Weibo @\_IceHe\_](https://weibo.com/icedes) : Daily Life Records
