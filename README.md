@@ -11,7 +11,7 @@
     - **Weibo**: Video Platform - Java
     - **Weibo**: Mobile API - PHP
     - **Huawei**: Telecom Software Customization - Java Intern.
-    - **SCUT**: Software Engineering - Bachelor
+    - **SCUT**: B.E. in Software Engineering 
 
 - [Homepage](https://icehe.life/#/): Technology Blog on **icehe.life** ([repo](https://github.com/IceHe/lib))
 - [Weibo](https://weibo.com/icedes): Daily Life Records **@\_IceHe\_**
